@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/pallavi-banner.jpg" width="100%" alt="Pallavi Sonawane - DevOps Engineer">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/banner.jpg" width="100%" alt="Pallavi Sonawane - DevOps Engineer">
 
 # 👋 Hey, I'm Pallavi!
 
 ### ☁️ Cloud & DevOps Engineer in Progress • AWS • Automation • AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+with+Cloud+%E2%98%81%EF%B8%8F;Automating+with+DevOps+%E2%9A%99%EF%B8%8F;Learning+with+AI+%F0%9F%A4%96;Turning+Ideas+into+Deployments+%F0%9F%9A%80" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+with+Cloud+%E2%98%81%EF%B8%8F;Automating+with+DevOps+%E2%9A%A1%EF%B8%8F;Learning+with+AI+%F0%9F%A4%96;Turning+Ideas+into+Deployments+%F0%9F%9A%80" alt="Typing animation">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iam--pallavi-181717?style=for-the-badge&logo=github)](https://github.com/iam-pallavi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pallavi%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pallavis117189/)
@@ -29,6 +29,12 @@ I enjoy learning by building — taking concepts from **Linux and Git → AWS �
 - ⚙️ Building: DevOps automation, CI/CD and cloud projects
 - 🤖 Exploring: AI + Cloud/DevOps automation
 - 🚀 Goal: Become a strong Cloud / DevOps Engineer
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/devops.jpg" width="100%" alt="DevOps Today - Pallavi">
+</div>
 
 ---
 
@@ -55,6 +61,10 @@ I enjoy learning by building — taking concepts from **Linux and Git → AWS �
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/tech-stack.jpg" width="100%" alt="Tech Stack and Tools - Pallavi">
+
+<br><br>
 
 ### ☁️ Cloud
 
