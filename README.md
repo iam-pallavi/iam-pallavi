@@ -1,203 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PALLAVI%20SONAWANE&fontSize=42&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20AI%20%7C%20.NET&descAlignY=58&descSize=20" width="100%" alt="Pallavi Sonawane banner">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/pallavi-banner.jpg" width="100%" alt="Pallavi Sonawane - DevOps Engineer">
 
-# P A L L A V I  S O N A W A N E
+# 👋 Hey, I'm Pallavi!
 
-### **Cloud & DevOps Enthusiast • AWS • Automation • AI**
+### ☁️ Cloud & DevOps Engineer in Progress • AWS • Automation • AI
 
-`AWS` • `Cloud` • `DevOps` • `Linux` • `Docker` • `Git` • `CI/CD` • `Terraform` • `Kubernetes` • `Python` • `C#` • `.NET` • `AI`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+with+Cloud+%E2%98%81%EF%B8%8F;Automating+with+DevOps+%E2%9A%99%EF%B8%8F;Learning+with+AI+%F0%9F%A4%96;Turning+Ideas+into+Deployments+%F0%9F%9A%80" alt="Typing animation">
 
-### *Building my journey from Software Development to Cloud, DevOps & AI.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iam-pallavi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavis117189/)
+[![GitHub](https://img.shields.io/badge/GitHub-iam--pallavi-181717?style=for-the-badge&logo=github)](https://github.com/iam-pallavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pallavi%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pallavis117189/)
 
 </div>
 
 ---
 
-# 👋 About Me
+## 💫 About Me
 
-I'm **Pallavi Sonawane**, an MCA graduate and software developer transitioning from **.NET development into Cloud & DevOps**.
+> **Developer by experience. Cloud & DevOps Engineer by direction. AI enthusiast by curiosity.**
 
-I have hands-on experience with **C#, ASP.NET, Windows Forms and SQL Server**, and I'm now building practical skills in **AWS, Linux, Git/GitHub, Docker, CI/CD, Kubernetes, Terraform, Ansible and Python automation**.
+I'm **Pallavi Sonawane**, an MCA graduate with **1+ year of .NET development experience**, now transitioning into **Cloud, DevOps and AI-driven automation**.
 
-I'm especially interested in combining **Cloud + DevOps + AI** to build reliable, automated and scalable solutions.
+I enjoy learning by building — taking concepts from **Linux and Git → AWS → Docker → CI/CD → Kubernetes → Infrastructure as Code**, and turning them into practical projects.
 
-- 🎓 MCA Graduate | 2023
-- 💻 1+ year of .NET development experience
-- ☁️ Currently focusing on AWS & Cloud Engineering
-- 🚀 Building hands-on DevOps projects
-- 🤖 Exploring AI + Cloud/DevOps automation
-- 🌱 Continuously learning and improving
+- 🎓 MCA Graduate — 2023
+- 💻 Background: C#, .NET, ASP.NET, Windows Forms, SQL Server
+- ☁️ Current focus: AWS & Cloud Engineering
+- ⚙️ Building: DevOps automation, CI/CD and cloud projects
+- 🤖 Exploring: AI + Cloud/DevOps automation
+- 🚀 Goal: Become a strong Cloud / DevOps Engineer
 
 ---
 
-# 🧭 My Journey
+## 🧭 My Journey
 
 ```text
-.NET Development
-      ↓
-C# • ASP.NET • Windows Forms • SQL Server
-      ↓
-Linux • Git • GitHub • Bash
-      ↓
-AWS Cloud • EC2 • S3 • IAM
-      ↓
-Docker • CI/CD • Jenkins • GitHub Actions
-      ↓
-Kubernetes • Terraform • Ansible
-      ↓
-Cloud + DevOps Automation
-      ↓
-AI + Cloud / DevOps 🚀
+💻 .NET Development
+        ↓
+🐧 Linux • Git • GitHub • Bash
+        ↓
+☁️ AWS • EC2 • S3 • IAM • VPC
+        ↓
+🐳 Docker • CI/CD • Jenkins • GitHub Actions
+        ↓
+☸️ Kubernetes • Terraform • Ansible
+        ↓
+⚙️ Cloud & DevOps Automation
+        ↓
+🤖 AI + Cloud / DevOps 🚀
 ```
 
 ---
 
-# 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iam-pallavi&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-pallavi&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top languages">
+### ☁️ Cloud
 
-</div>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-## ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🚀 DevOps & Automation
+### ⚙️ DevOps & Automation
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 💻 Development
+### 💻 Development & Scripting
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
 ---
 
-# 🧠 Current Focus
+## 🚀 What I'm Building Right Now
 
-| Area | What I'm learning / building |
-|------|------------------------------|
-| ☁️ AWS Cloud | EC2, S3, IAM, VPC and core AWS services |
-| 🐧 Linux | CLI, permissions, processes, networking & shell scripting |
-| 🔀 Git & GitHub | Version control, branching, collaboration & portfolio projects |
-| 🐳 Docker | Images, containers, Dockerfiles, networks & volumes |
-| 🔄 CI/CD | Jenkins, GitHub Actions and automated deployments |
-| ☸️ Kubernetes | Containers, Pods, Deployments, Services & fundamentals |
-| 🏗️ Infrastructure as Code | Terraform & infrastructure automation |
-| ⚙️ Configuration Management | Ansible fundamentals & automation |
-| 🤖 AI + Cloud | Exploring AI-assisted automation and cloud workflows |
+| 🔥 Focus | 🎯 Goal |
+|---|---|
+| ☁️ AWS | Build and deploy cloud infrastructure |
+| 🐧 Linux | Become confident with administration & troubleshooting |
+| 🐳 Docker | Containerize real applications |
+| 🔄 CI/CD | Automate build, test and deployment workflows |
+| ☸️ Kubernetes | Understand container orchestration hands-on |
+| 🏗️ Terraform | Manage infrastructure as code |
+| ⚙️ Ansible | Automate configuration and deployments |
+| 🤖 AI + DevOps | Explore smarter automation workflows |
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 <div align="center">
 
-| Project | Description |
-|----------|-------------|
-| [30 Days of DevOps](https://github.com/devopswithpallavi/30-days-of-devops) | Hands-on DevOps learning journey with practical tasks |
-| [Day 01 – Git & GitHub](https://github.com/devopswithpallavi/30-days-of-devops/tree/main/day-01-git-github) | Git/GitHub fundamentals and practical commands |
-| .NET Projects | C# / ASP.NET / Windows Forms based application experience |
-| Cloud & DevOps Labs | Practical AWS, Linux, Docker and automation experiments |
+### 🔥 30 Days of DevOps
+
+A hands-on DevOps learning journey covering practical tools, commands and projects.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-30%20Days%20of%20DevOps-8B5CF6?style=for-the-badge&logo=github)](https://github.com/devopswithpallavi/30-days-of-devops)
+
+### 🧩 Day 01 — Git & GitHub
+
+Practical Git/GitHub fundamentals, commands, branching and version-control exercises.
+
+[![Day 01](https://img.shields.io/badge/Open%20Day%2001-Git%20%26%20GitHub-EC4899?style=for-the-badge&logo=git)](https://github.com/devopswithpallavi/30-days-of-devops/tree/main/day-01-git-github)
 
 </div>
 
 ---
 
-# 🚀 Areas I'm Building Expertise In
-
-<table>
-  <tr>
-    <td>☁️ AWS Cloud</td>
-    <td>⚙️ DevOps Engineering</td>
-    <td>🐳 Docker</td>
-    <td>☸️ Kubernetes</td>
-  </tr>
-  <tr>
-    <td>🔄 CI/CD</td>
-    <td>🏗️ Terraform</td>
-    <td>🛠️ Ansible</td>
-    <td>🐧 Linux</td>
-  </tr>
-  <tr>
-    <td>🔀 Git & GitHub</td>
-    <td>🐍 Python Automation</td>
-    <td>💻 C# / .NET</td>
-    <td>🗄️ SQL Server</td>
-  </tr>
-  <tr>
-    <td>🤖 AI Automation</td>
-    <td>☁️ Cloud Automation</td>
-    <td>🚀 Deployment</td>
-    <td>📚 Continuous Learning</td>
-  </tr>
-</table>
-
----
-
-# 📚 Learning & Practice
-
-I'm actively working through hands-on learning in:
-
-- AWS Cloud Practitioner & AWS fundamentals
-- Linux and Bash scripting
-- Git & GitHub
-- Docker & containerization
-- Jenkins and CI/CD pipelines
-- Kubernetes
-- Terraform & Infrastructure as Code
-- Ansible
-- Python automation
-- Cloud + AI / DevOps automation
-
----
-
-# 🎯 Career Goal
-
-> **To become a strong Cloud / DevOps Engineer who can build, automate, deploy and operate reliable cloud infrastructure — while combining DevOps with AI.**
-
-I'm focused on turning every learning topic into **hands-on projects, GitHub repositories and real-world problem solving.**
-
----
-
-# 🌱 Always Learning. Always Building.
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Code → Automate → Deploy → Learn → Improve → Repeat 🔁**
+<img src="https://github-readme-stats.vercel.app/api?username=iam-pallavi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-pallavi&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages">
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="footer">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-pallavi&theme=transparent&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+## 🎯 Career Mission
+
+<div align="center">
+
+### **Build • Automate • Deploy • Learn • Improve 🔁**
+
+I'm working towards becoming a **Cloud / DevOps Engineer** who can design, automate, deploy and operate reliable cloud solutions — with **AI as the next layer of automation**.
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+`AWS Cloud Practitioner` `Linux` `Git & GitHub` `Docker` `Jenkins` `CI/CD` `Kubernetes` `Terraform` `Ansible` `Python Automation` `AI + Cloud`
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**If you're interested in Cloud, DevOps, Automation or AI — let's connect. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Profile footer">
 
 </div>
