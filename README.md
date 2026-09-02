@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/banner.jpg" width="100%" alt="Pallavi Sonawane - Cloud DevOps Engineer">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/banner.jpg" width="800px" alt="Pallavi Sonawane - Cloud DevOps Engineer">
 
 # P A L L A V I  S O N A W A N E
 
@@ -35,7 +35,7 @@ I enjoy learning by building — taking concepts from **Linux and Git → AWS �
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/devops.jpg" width="100%" alt="DevOps Today - Pallavi">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/devops.jpg" width="800px" alt="DevOps Today - Pallavi">
 </div>
 
 ---
@@ -59,7 +59,7 @@ I enjoy learning by building — taking concepts from **Linux and Git → AWS �
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/tech-stack.jpg" width="100%" alt="Tech Stack and Tools - Pallavi">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/tech-stack.jpg" width="800px" alt="Tech Stack and Tools - Pallavi">
 
 <br><br>
 
