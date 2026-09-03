@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/banner.jpg" width="500px" height="150px" alt="Pallavi Sonawane - Cloud DevOps Engineer">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/banner.jpg" width="800px" height="150px" alt="Pallavi Sonawane - Cloud DevOps Engineer">
 
 # P A L L A V I  S O N A W A N E
 
