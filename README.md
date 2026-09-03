@@ -8,12 +8,12 @@
 
 `AWS` • `Cloud` • `DevOps` • `Linux` • `Docker` • `CI/CD` • `Kubernetes` • `Terraform` • `Python` • `.NET`
 
-### *Building Cloud Skills. Automating with DevOps. Exploring AI.* ☁️⚙️🤖
+### *Building Cloud Skills, Automating with DevOps & Exploring AI.* ☁️⚙️🤖
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavis117189/)
 [![GitHub](https://img.shields.io/badge/GitHub-iam--pallavi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iam-pallavi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pallavi%20Sonawane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavis117189/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Learner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![DevOps](https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-6C63FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/iam-pallavi)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![DevOps](https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-6C63FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/iam-pallavi)
 
 </div>
 
@@ -23,23 +23,24 @@
 
 > **Developer by experience. Cloud & DevOps Engineer by direction. AI enthusiast by curiosity.**
 
-I'm **Pallavi Sonawane**, an **MCA graduate** with **1+ year of .NET development experience**, currently building my career in **AWS, Cloud, DevOps and AI-powered automation**.
+I'm **Pallavi Sonawane**, an **MCA graduate** with professional experience in **C#, .NET, ASP.NET, Windows Forms and SQL Server**, now focused on building my career in **AWS, Cloud, DevOps and AI-powered automation**.
 
-I believe the best way to learn technology is to **build with it**. My journey is focused on turning concepts into hands-on projects — from Linux and Git to AWS, containers, CI/CD, Kubernetes and Infrastructure as Code.
+I enjoy learning by building — turning cloud and DevOps concepts into practical labs, projects and automation workflows. My goal is to combine my development background with modern cloud-native technologies and become a strong **Cloud / DevOps Engineer**.
 
 - 🎓 **MCA Graduate — 2023**
-- 💻 **1+ year** experience with C#, .NET, ASP.NET, Windows Forms & SQL Server
-- ☁️ Building strong foundations in **AWS Cloud**
-- ⚙️ Practicing **DevOps, CI/CD & automation**
-- 🐳 Learning **Docker & Kubernetes** through hands-on labs
+- 💻 **1+ year** of .NET development experience
+- ☁️ Building hands-on skills in **AWS Cloud**
+- 🐧 Practicing **Linux & Bash**
+- 🔀 Working with **Git & GitHub**
+- 🐳 Learning **Docker & Kubernetes**
+- 🔄 Building **CI/CD pipelines**
 - 🏗️ Exploring **Terraform & Infrastructure as Code**
-- 🤖 Exploring the intersection of **AI + Cloud + DevOps**
-- 🚀 Goal: **Cloud / DevOps Engineer**
+- 🤖 Exploring **AI + Cloud + DevOps**
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/devops.jpg" width="800px" alt="DevOps Journey - Pallavi Sonawane">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/devops.jpg" width="800px" alt="Pallavi Sonawane DevOps Journey">
 </div>
 
 ---
@@ -48,12 +49,12 @@ I believe the best way to learn technology is to **build with it**. My journey i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iam-pallavi&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-pallavi&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=iam-pallavi&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="170" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-pallavi&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-pallavi&theme=transparent&hide_border=true" alt="GitHub contribution streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-pallavi&theme=transparent&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
@@ -63,7 +64,7 @@ I believe the best way to learn technology is to **build with it**. My journey i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/tech-stack.jpg" width="800px" alt="Cloud DevOps Tech Stack - Pallavi">
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/tech-stack.jpg" width="800px" alt="Cloud DevOps Tech Stack">
 
 <br><br>
 
@@ -75,7 +76,7 @@ I believe the best way to learn technology is to **build with it**. My journey i
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🚀 DevOps & Platform
+## 🚀 DevOps & Cloud Native
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,26 +104,10 @@ I believe the best way to learn technology is to **build with it**. My journey i
 # 🧠 Current Focus
 
 <table>
-  <tr>
-    <td>☁️ AWS Cloud</td>
-    <td>🐧 Linux & Bash</td>
-    <td>🔀 Git & GitHub</td>
-  </tr>
-  <tr>
-    <td>🐳 Docker</td>
-    <td>🔄 CI/CD</td>
-    <td>☸️ Kubernetes</td>
-  </tr>
-  <tr>
-    <td>🏗️ Terraform</td>
-    <td>⚙️ Ansible</td>
-    <td>🤖 AI + DevOps</td>
-  </tr>
-  <tr>
-    <td>🔐 Cloud Security Basics</td>
-    <td>📊 Monitoring & Observability</td>
-    <td>🚀 Deployment Automation</td>
-  </tr>
+  <tr><td>☁️ AWS Cloud</td><td>🐧 Linux & Bash</td><td>🔀 Git & GitHub</td></tr>
+  <tr><td>🐳 Docker</td><td>🔄 CI/CD</td><td>☸️ Kubernetes</td></tr>
+  <tr><td>🏗️ Terraform</td><td>⚙️ Ansible</td><td>🤖 AI + DevOps</td></tr>
+  <tr><td>🔐 Cloud Security Basics</td><td>📊 Monitoring & Observability</td><td>🚀 Deployment Automation</td></tr>
 </table>
 
 ---
@@ -130,12 +115,10 @@ I believe the best way to learn technology is to **build with it**. My journey i
 # 📂 Featured Projects
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/projects.jpg" width="800px" alt="Cloud DevOps Projects - Pallavi Sonawane">
-
+<img src="https://raw.githubusercontent.com/iam-pallavi/iam-pallavi/main/assets/projects.jpg" width="800px" alt="Pallavi Sonawane Cloud DevOps Projects">
 </div>
 
-## 🚀 DevOps & Cloud
+## 🚀 Cloud & DevOps
 
 | Project | Description |
 |---|---|
@@ -156,19 +139,14 @@ I believe the best way to learn technology is to **build with it**. My journey i
 
 ---
 
-# 🎯 Areas I'm Building
+# 🚀 Areas of Expertise
 
-<div align="center">
-
-`☁️ AWS Cloud` • `⚙️ DevOps Engineering` • `🐳 Docker` • `☸️ Kubernetes`
-
-`🔄 CI/CD` • `🏗️ Terraform` • `🛠️ Ansible` • `🐧 Linux`
-
-`🔀 Git & GitHub` • `🐍 Python Automation` • `💻 C# / .NET` • `🗄️ SQL Server`
-
-`🤖 AI Automation` • `☁️ Cloud Automation` • `📊 Monitoring` • `🚀 Deployment`
-
-</div>
+<table>
+  <tr><td>☁️ Cloud Infrastructure</td><td>⚙️ DevOps Engineering</td><td>🐳 Containerization</td><td>☸️ Kubernetes</td></tr>
+  <tr><td>🔄 CI/CD Automation</td><td>🏗️ Infrastructure as Code</td><td>🐧 Linux</td><td>📊 Monitoring</td></tr>
+  <tr><td>🔀 Git & GitHub</td><td>☁️ AWS</td><td>🐍 Python Automation</td><td>🤖 AI + Cloud</td></tr>
+  <tr><td>💻 C# / .NET</td><td>🌐 ASP.NET</td><td>🗄️ SQL Server</td><td>🚀 Deployment Automation</td></tr>
+</table>
 
 ---
 
@@ -179,8 +157,8 @@ I believe the best way to learn technology is to **build with it**. My journey i
 | ☁️ **Cloud Engineering** | Build and deploy reliable solutions on AWS |
 | ⚙️ **DevOps** | Automate development, testing and deployment workflows |
 | 🐳 **Containers** | Package and run applications consistently with Docker |
-| ☸️ **Kubernetes** | Understand container orchestration and production patterns |
-| 🏗️ **Infrastructure as Code** | Provision infrastructure using Terraform |
+| ☸️ **Kubernetes** | Build a strong foundation in container orchestration |
+| 🏗️ **Infrastructure as Code** | Provision and manage infrastructure using Terraform |
 | 🤖 **AI + DevOps** | Explore AI-assisted automation and intelligent workflows |
 | 📚 **Learning in Public** | Document projects, labs and lessons on GitHub |
 
@@ -192,7 +170,7 @@ I believe the best way to learn technology is to **build with it**. My journey i
 
 | Resource | Focus |
 |---|---|
-| ☁️ **AWS** | Cloud fundamentals, services, IAM, networking & architecture |
+| ☁️ **AWS** | Cloud fundamentals, core services, IAM, networking & architecture |
 | 🐧 **Linux** | CLI, permissions, processes, networking & Bash |
 | 🔀 **Git & GitHub** | Version control, collaboration & portfolio building |
 | 🐳 **Docker** | Containerization and application deployment |
@@ -206,13 +184,13 @@ I believe the best way to learn technology is to **build with it**. My journey i
 
 ---
 
-# 🚀 Career Mission
+# 🎯 Career Mission
 
 <div align="center">
 
 ### **Learn • Build • Automate • Deploy • Improve 🔁**
 
-My mission is to grow from a **.NET Developer** into a strong **Cloud & DevOps Engineer**, building practical cloud solutions and automation — while exploring how **AI can make infrastructure and engineering workflows smarter**.
+My mission is to grow from a **.NET Developer** into a strong **Cloud & DevOps Engineer**, building practical cloud solutions and automation while exploring how **AI can make infrastructure and engineering workflows smarter**.
 
 </div>
 
